@@ -42,7 +42,6 @@ h3{
     border-radius: 10%;
 }
 
-
 .link{
     margin-top: 5rem;
     align-items: center;
@@ -51,22 +50,13 @@ h3{
     background-color: #7f9501;
 }
 
-
-
 .row a {
-    height: 5rem;
-    width: 5rem;
+    height: 20px;
+    width: 20px;
     margin: 1rem;
-
 }
 
 .row img {
-    height: max-content;
-    width: 5rem;
-
-
-}
-
-.row span {
-    left: 5rem;
+    height: 70px;
+    width: 100px;
 }
