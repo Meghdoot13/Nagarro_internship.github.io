@@ -1,0 +1,27 @@
+body {
+    background-color: rgb(237, 249, 199);
+}
+
+h1 {
+    text-align: center;
+    color: rgb(25, 20, 11)
+}
+
+.copy {
+    margin: 50px;
+}
+
+#button {
+    height: 50px;
+    width: 80px;
+    border-radius: 5px;
+    background-color: #f09904f8;
+    color: rgb(12, 5, 5);
+    cursor: copy;
+    font-weight: 900;
+}
+
+#button:hover {
+    background-color: #582f1b;
+    color: wheat;
+}
